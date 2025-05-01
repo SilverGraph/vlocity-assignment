@@ -28,8 +28,8 @@ The frontend is built with **React.js** and styled using **Material UI (MUI)** c
 
 ## 🚀 Deployment
 
-- **Frontend**: Deployed on [Netlify](https://www.netlify.com/)
-- **Backend**: Suggested options include [Render](https://render.com/), [Railway](https://railway.app/), or [Vercel Serverless Functions](https://vercel.com/)
+- **Frontend**: Deployed on [Netlify](https://ticket-tracker-raj-aryan.netlify.app/)
+- **Backend**: Deployed on [Render](https://vlocity-backend-406j.onrender.com)
 
 ## 📚 API Documentation
 
