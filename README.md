@@ -110,3 +110,13 @@ The frontend is built with **React.js** and styled using **Material UI (MUI)** c
    Navigate to the frontend directory and run:
    ```bash
    npm start
+
+### 🧭 Testing
+1. **Admin account credentials are as follows**  
+   ```bash
+   username = admin
+   password = adminpass
+2. **User account credentials are as follows**  
+   ```bash
+   username = user
+   password = userpass
