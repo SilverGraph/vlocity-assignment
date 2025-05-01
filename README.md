@@ -18,7 +18,7 @@ The frontend is built with **React.js** and styled using **Material UI (MUI)** c
 | Route           | Component         | Description                       |
 |------------------|-------------------|-----------------------------------|
 | `/login`         | `LoginPage`       | Login form                        |
-| `/register`      | `SignupPage`      | Register as User/Admin            |
+| `/signup`        | `SignupPage`      | Register as User/Admin            |
 | `/dashboard`     | `DashboardPage`   | Admin or User dashboard view      |
 | `/projects/:id`  | `ProjectDetails`  | View details of a project         |
 | `/issues`        | `ViewIssues`      | View and filter all issues        |
